@@ -19,11 +19,13 @@ In the last, Hong Kong film is an entertaining and commercial film model, but it
 <!--don't use-->
 
 3. Why did Hong Kong movies fall nowadays?
+<!--徐zh-->
 
 4. which is your favorite Hong Kong movie?
+<!---->
 
 # answers
-1. I think the special history situation and the state of economic development at that time decide the taste of HK movies. you know in HK at that time, there are skyscrapers with colorful neon lights, and under the floor are slums, where people live a gray life. films are mostly about the story of these kind of people, most people.
+1. I think the special history situation and the state of economic development at that time decide the taste of HK movies. you know in HK at that time, although there are skyscrapers with colorful neon lights, there are slums everywhere, where people live a gray life. films are mostly about the story of these kind of people, most people.
 
  From this perspective, HK at that time is a city which looks like magical or a little cyberpunk. So most HK movies describe characters live in this condition
 
